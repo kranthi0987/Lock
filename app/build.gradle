@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "name.seguri.android.lock"
+        applicationId "com.techhades.lock"
         minSdkVersion 10
         targetSdkVersion 25
         versionCode 3
@@ -19,4 +19,10 @@ android {
 }
 
 dependencies {
+    compile 'com.google.firebase:firebase-core:10.0.1'
+    compile 'com.google.firebase:firebase-appindexing:10.0.1'
 }
+
+
+
+apply plugin: 'com.google.gms.google-services'

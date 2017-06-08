@@ -22,7 +22,7 @@ Now, on Huawei with Nougat and EMUI 5, it doesn't even require to be an administ
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
       alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/name.seguri.android.lock)
+      height="80">](https://f-droid.org/app/com.techhades.lock)
 
 ## Uninstalling
 
